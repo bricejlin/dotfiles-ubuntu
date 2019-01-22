@@ -1,0 +1,4 @@
+alias g="git"
+alias gcon="vim ~/.gitconfig"
+alias zcon="vim ~/.zshrc"
+
